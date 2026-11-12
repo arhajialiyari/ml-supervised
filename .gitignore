@@ -1,0 +1,12 @@
+# Dataset
+/drug_classification.csv
+
+# Virtual environment
+/.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
